@@ -1,3 +1,6 @@
+Next Lesson (no pun intended) https://nextjs.org/learn/basics/api-routes
+
+
 Important NExt.js concepts
 
 Pre-rendering: Generating HTML for each page in advance, instead of having it all done by client-side javascript
